@@ -1,0 +1,31 @@
+.flexbox-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #000;
+    color: rgb(137, 140, 143);
+}
+
+.first{
+    display:flex;
+    flex: 1;
+    justify-content: start;
+    margin-left: 23rem;
+    margin-top: 10px;
+}
+
+.second{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right: 130px;
+    gap: 20px;
+}
+.login{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.live-chat{
+    margin-right:1;
+    margin-top: 10px;
+    padding-left: 5px;
+}

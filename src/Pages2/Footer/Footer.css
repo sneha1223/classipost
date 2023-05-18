@@ -1,0 +1,72 @@
+.footer {
+    height: 35rem;
+    background-color: #202020;
+    padding-top: 8rem;
+}
+
+.footer-div {
+    color: #b7c3c8;
+}
+
+.footer-heading {
+    color: white;
+    font-family: sans-serif;
+}
+.playstore {
+    width: 230px;
+    height: 55px;
+    border-radius: 5px;
+}
+
+.appstore {
+    width: 230px;
+    height: 55px;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.icon-list{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+.icons{
+    margin-left: 5px;
+}
+/* hr{
+    width: 50%;
+    height: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #16a085;
+    border-radius: 3px;
+    display: flex;
+    justify-content: start;
+  } */
+.footer-end {
+    background-color: rgb(15, 14, 14);
+    height: 4rem;
+    margin-top: 6rem;
+    display: flex;
+}
+
+.copyright{
+    color: #b7c3c8;
+    display: flex;
+    justify-content: start;
+    margin-left: 300px;
+   justify-content: center;
+   margin-top: 10px;
+}
+.footer-end-icon{
+    justify-content: end;
+    margin-left: 988px;
+    margin-top: 10px;
+}
+.footer-icon{
+    margin-left: 5px;
+}
+li {
+    list-style-type: none;
+    text-align: start;
+}
+
